@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900034.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230206/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228852/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://stream1.jlntv.cn/jlws/sd/live.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900040.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+https://hwapi.yunshicloud.com/62hdvf/41hse3.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视HD
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900126.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+http://yd-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900033.m3u8
